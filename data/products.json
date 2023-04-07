@@ -1,1 +1,16 @@
-[{"id":"123245","title":"A Book","imageUrl":"https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg","description":"This is an awesome book!","price":"19"}]
+[
+    {
+        "id": "1234",
+        "title": "A Book",
+        "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
+        "description": "This is an awesome book!",
+        "price": "19"
+    },
+    {
+        "id": "4065",
+        "title": "Bottle",
+        "imageUrl": "https://i.etsystatic.com/17354667/r/il/b9df78/4023259534/il_fullxfull.4023259534_1250.jpg",
+        "description": "This is new Bottle.",
+        "price": "18.65"
+    }
+]
